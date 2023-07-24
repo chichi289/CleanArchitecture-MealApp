@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <string name="txt_instructions">Instructions :</string>
+    <string name="txt_required_items">Required Items :</string>
+    <string name="txt_desc_back_button">Back button</string>
+    <string name="txt_search_dishes">Search dishes</string>
+</resources>
